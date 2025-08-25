@@ -1,4 +1,4 @@
-# Atribuindo data da transação e limite de transacao diaria
+# Incluindo usuario e conta corrente
 
 menu = """
 
